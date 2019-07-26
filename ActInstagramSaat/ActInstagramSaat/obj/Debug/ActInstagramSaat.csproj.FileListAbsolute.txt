@@ -1,0 +1,11 @@
+D:\Projeler\ActInstagramSaat\ActInstagramSaat\bin\Debug\ActInstagramSaat.exe.config
+D:\Projeler\ActInstagramSaat\ActInstagramSaat\bin\Debug\ActInstagramSaat.exe
+D:\Projeler\ActInstagramSaat\ActInstagramSaat\bin\Debug\ActInstagramSaat.pdb
+D:\Projeler\ActInstagramSaat\ActInstagramSaat\obj\Debug\ActInstagramSaat.Form1.resources
+D:\Projeler\ActInstagramSaat\ActInstagramSaat\obj\Debug\ActInstagramSaat.Properties.Resources.resources
+D:\Projeler\ActInstagramSaat\ActInstagramSaat\obj\Debug\ActInstagramSaat.csproj.GenerateResource.Cache
+D:\Projeler\ActInstagramSaat\ActInstagramSaat\obj\Debug\ActInstagramSaat.exe
+D:\Projeler\ActInstagramSaat\ActInstagramSaat\obj\Debug\ActInstagramSaat.pdb
+D:\Projeler\ActInstagramSaat\ActInstagramSaat\bin\Debug\InstagramApiSharp.dll
+D:\Projeler\ActInstagramSaat\ActInstagramSaat\bin\Debug\Newtonsoft.Json.dll
+D:\Projeler\ActInstagramSaat\ActInstagramSaat\bin\Debug\Newtonsoft.Json.xml

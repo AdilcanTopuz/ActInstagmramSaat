@@ -1,0 +1,12 @@
+D:\Projeler\ActInstagramSaat\ActInstagramSaat\bin\Release\ActInstagramSaat.exe.config
+D:\Projeler\ActInstagramSaat\ActInstagramSaat\bin\Release\ActInstagramSaat.exe
+D:\Projeler\ActInstagramSaat\ActInstagramSaat\bin\Release\ActInstagramSaat.pdb
+D:\Projeler\ActInstagramSaat\ActInstagramSaat\bin\Release\InstagramApiSharp.dll
+D:\Projeler\ActInstagramSaat\ActInstagramSaat\bin\Release\Newtonsoft.Json.dll
+D:\Projeler\ActInstagramSaat\ActInstagramSaat\bin\Release\Newtonsoft.Json.xml
+D:\Projeler\ActInstagramSaat\ActInstagramSaat\obj\Release\ActInstagramSaat.Form1.resources
+D:\Projeler\ActInstagramSaat\ActInstagramSaat\obj\Release\ActInstagramSaat.Properties.Resources.resources
+D:\Projeler\ActInstagramSaat\ActInstagramSaat\obj\Release\ActInstagramSaat.csproj.GenerateResource.Cache
+D:\Projeler\ActInstagramSaat\ActInstagramSaat\obj\Release\ActInstagramSaat.exe
+D:\Projeler\ActInstagramSaat\ActInstagramSaat\obj\Release\ActInstagramSaat.pdb
+D:\Projeler\ActInstagramSaat\ActInstagramSaat\obj\Release\ActInstagramSaat.csprojResolveAssemblyReference.cache
